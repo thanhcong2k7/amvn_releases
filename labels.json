@@ -1,5 +1,4 @@
 [
-  
   {
     "id": "kms",
     "name": "K - Music Sweet",
@@ -8,7 +7,7 @@
     "description": "With over 16 years of experience, we creates promotional video content to help new and established music and graphic design artists reach a wider global audience and transform their careers. We encourage viewers to support our channel by liking, subscribing, and engaging in the comments.",
     "logo": "L",
     "verified": false
-  }.
+  },
   {
     "id": "beaconwave",
     "name": "Beaconwave Recordings",
@@ -16,6 +15,9 @@
     "email": "demo@beaconwave.com",
     "description": "Launched in 2024 and powered by Aurora Music Vietnam, Beaconwave Recordings is an electronic music platform dedicated to connecting passionate fans with talented artists. It covers a wide range of dance music genres - including house, dubstep, and trance - helping listeners discover new sounds while providing producers and DJs with a platform to grow their careers.",
     "logo": "B",
-    "verified": true
+    "verified": true,
+    "url":[
+      {"YouTube": "https://www.youtube.com/@kmusicsweet"}
+    ]
   }
 ]
