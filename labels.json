@@ -1,29 +1,21 @@
 [
+  
   {
-    "id": "nodable",
-    "name": "Nodable Music",
-    "functionality": "Distribution Service",
-    "email": "contact@nodablemusic.com",
-    "description": "Global music distribution and licensing for independent artists.",
-    "logo": "N",
-    "verified": true
-  },
-  {
-    "id": "beaconwave",
-    "name": "Beaconwave",
+    "id": "kms",
+    "name": "K - Music Sweet",
     "functionality": "Music Label",
-    "email": "demo@beaconwave.com",
-    "description": "Electronic music label dedicated to bringing the best melodic sounds to the masses.",
-    "logo": "B",
-    "verified": true
-  },
-  {
-    "id": "lensuriken",
-    "name": "LenSuriken EDM",
-    "functionality": "Promotion Channel",
-    "email": "promo@lensurikenedm.com",
-    "description": "Top-tier EDM promotion network and curation platform connecting artists to fans.",
+    "email": "contact@kmusicsweet.com",
+    "description": "With over 16 years of experience, we creates promotional video content to help new and established music and graphic design artists reach a wider global audience and transform their careers. We encourage viewers to support our channel by liking, subscribing, and engaging in the comments.",
     "logo": "L",
     "verified": false
+  }.
+  {
+    "id": "beaconwave",
+    "name": "Beaconwave Recordings",
+    "functionality": "Music Label",
+    "email": "demo@beaconwave.com",
+    "description": "Launched in 2024 and powered by Aurora Music Vietnam, Beaconwave Recordings is an electronic music platform dedicated to connecting passionate fans with talented artists. It covers a wide range of dance music genres - including house, dubstep, and trance - helping listeners discover new sounds while providing producers and DJs with a platform to grow their careers.",
+    "logo": "B",
+    "verified": true
   }
 ]
