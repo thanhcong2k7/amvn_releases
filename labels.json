@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nodable",
+    "name": "Nodable Music",
+    "functionality": "Distribution Service",
+    "email": "contact@nodablemusic.com",
+    "description": "Global music distribution and licensing for independent artists.",
+    "logo": "N",
+    "verified": true
+  },
+  {
+    "id": "beaconwave",
+    "name": "Beaconwave",
+    "functionality": "Music Label",
+    "email": "demo@beaconwave.com",
+    "description": "Electronic music label dedicated to bringing the best melodic sounds to the masses.",
+    "logo": "B",
+    "verified": true
+  },
+  {
+    "id": "lensuriken",
+    "name": "LenSuriken EDM",
+    "functionality": "Promotion Channel",
+    "email": "promo@lensurikenedm.com",
+    "description": "Top-tier EDM promotion network and curation platform connecting artists to fans.",
+    "logo": "L",
+    "verified": false
+  }
+]
