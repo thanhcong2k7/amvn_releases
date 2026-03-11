@@ -1,23 +1,44 @@
 [
   {
     "id": "kms",
-    "name": "K - Music Sweet",
+    "name": "KMS Recordings",
     "functionality": "Music Label",
     "email": "contact@kmusicsweet.com",
     "description": "With over 16 years of experience, we creates promotional video content to help new and established music and graphic design artists reach a wider global audience and transform their careers. We encourage viewers to support our channel by liking, subscribing, and engaging in the comments.",
-    "logo": "L",
-    "verified": false
+    "logo": "https://auroramusicvietnam.net/assets/kms.png",
+    "verified": true,
+    "url": [
+      {
+        "YouTube": "https://www.youtube.com/@kmusicsweet"
+      }
+    ]
   },
   {
-    "id": "beaconwave",
+    "id": "bcr",
     "name": "Beaconwave Recordings",
     "functionality": "Music Label",
     "email": "demo@beaconwave.com",
     "description": "Launched in 2024 and powered by Aurora Music Vietnam, Beaconwave Recordings is an electronic music platform dedicated to connecting passionate fans with talented artists. It covers a wide range of dance music genres - including house, dubstep, and trance - helping listeners discover new sounds while providing producers and DJs with a platform to grow their careers.",
     "logo": "https://auroramusicvietnam.net/assets/beaconwave.png",
     "verified": true,
-    "url":[
-      {"YouTube": "https://www.youtube.com/@kmusicsweet"}
+    "url": [
+      {
+        "YouTube": "https://www.youtube.com/channel/UCVG0pG4G-qR9IRTmltUlp7Q"
+      }
+    ]
+  },
+  {
+    "id": "tmg",
+    "name": "T52 Music Group",
+    "functionality": "Music Label",
+    "email": "t52edm@gmail.com",
+    "description": "Electronic Music label from Vietnam!",
+    "logo": "https://auroramusicvietnam.net/assets/t52.png",
+    "verified": true,
+    "url": [
+      {
+        "YouTube": "https://www.youtube.com/@t52music"
+      }
     ]
   }
 ]
